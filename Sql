@@ -1,0 +1,14 @@
+html/
+ad-scheduler/
+├── static/
+│   ├── css/
+│   │   └── styles.css
+│   ├── js/
+│   │   └── script.js
+│   ├── index.html
+│   ├── create-account.html
+│   ├── subscription.html
+│   └── payment.html
+├── app.py
+├── requirements.txt
+└── README.md
